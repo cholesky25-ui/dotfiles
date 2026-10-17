@@ -39,9 +39,9 @@ I'll also upload pictures of my current desktop setup, which may not exactly mat
 
 ## Screenshots
 
-![](2026-10-17T06:02:06,934252686-05:00.png)
+![Current setup](2026-10-17T06:02:06,934252686-05:00.png)
 
-![](2026-10-17T06:19:17,117278186-05:00.png)
+![Current Setup 2](2026-10-17T06:19:17,117278186-05:00.png)
 
 
 
