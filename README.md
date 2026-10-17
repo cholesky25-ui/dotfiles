@@ -37,4 +37,11 @@ These dotfiles reflect my personal preferences. I started by copying someone els
 
 I'll also upload pictures of my current desktop setup, which may not exactly match the configuration in this repository.
 
+## Screenshots
+
+![](2026-10-17T06:02:06,934252686-05:00.png)
+
+![](2026-10-17T06:19:17,117278186-05:00.png)
+
+
 
